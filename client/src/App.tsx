@@ -1,4 +1,4 @@
-import { Linkedin, Github, Mail } from "lucide-react";
+import { Linkedin, Github, Mail, ScrollText } from "lucide-react";
 
 function App() {
     return (
@@ -15,6 +15,9 @@ function App() {
                         </a>
                         <a href="mailto:marshallpblatz@gmail.com" target="_blank">
                             <Mail size={18} />
+                        </a>
+                        <a href="/resume.pdf" target="_blank">
+                            <ScrollText size={18} />
                         </a>
                     </div>
                     <p className="text-grey">
