@@ -29,12 +29,8 @@ function App() {
                 <div className="space-y-3">
                     <p>Projects</p>
                     <p className="text-grey">
-                        <a
-                            className=" underline items-center text-white"
-                            href="https://cureight.vercel.app"
-                            target="_blank"
-                        >
-                            Curate <i className="ti ti-external-link"></i>
+                        <a className=" underline items-center text-white" href="https://jookbox.co" target="_blank">
+                            Jookbox <i className="ti ti-external-link"></i>
                         </a>
                         {"  "}- A useful tool for sharing playlists independent of music service, and a platform for
                         playlist curators to show off.
